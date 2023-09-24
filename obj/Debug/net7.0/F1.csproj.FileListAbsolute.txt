@@ -1,0 +1,14 @@
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\bin\Debug\net7.0\F1.exe
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\bin\Debug\net7.0\F1.deps.json
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\bin\Debug\net7.0\F1.runtimeconfig.json
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\bin\Debug\net7.0\F1.dll
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\bin\Debug\net7.0\F1.pdb
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\obj\Debug\net7.0\F1.GeneratedMSBuildEditorConfig.editorconfig
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\obj\Debug\net7.0\F1.AssemblyInfoInputs.cache
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\obj\Debug\net7.0\F1.AssemblyInfo.cs
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\obj\Debug\net7.0\F1.csproj.CoreCompileInputs.cache
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\obj\Debug\net7.0\F1.dll
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\obj\Debug\net7.0\refint\F1.dll
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\obj\Debug\net7.0\F1.pdb
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\obj\Debug\net7.0\F1.genruntimeconfig.cache
+R:\GB L\GitHubDesktop+\Csharp-GB-HM\F1\obj\Debug\net7.0\ref\F1.dll
